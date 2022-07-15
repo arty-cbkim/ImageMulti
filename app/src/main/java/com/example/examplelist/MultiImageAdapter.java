@@ -1,7 +1,6 @@
-package com.example.imagemulti;
+package com.example.examplelist;
 
 import android.content.Context;
-import android.net.Uri;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;

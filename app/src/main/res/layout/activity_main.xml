@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context="com.example.examplelist.MainActivity"
     android:padding="20dp">
 
     <androidx.recyclerview.widget.RecyclerView
@@ -45,12 +45,11 @@
         android:id="@+id/dotsIndicator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:dotsCornerRadius="8dp"
-        app:dotsSize="16sp"
+        app:dotsSize="6sp"
         app:dotsSpacing="4dp"
-        app:selectedDotColor="#55ff00"
+        app:selectedDotColor="#0066aa"
         android:padding="10dp"
-        app:dotsColor="#0000ff"
+        app:dotsColor="#AAAAAA"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/viewPager2"/>

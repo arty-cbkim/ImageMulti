@@ -1,4 +1,4 @@
-package com.example.imagemulti;
+package com.example.examplelist;
 
 import android.content.Context;
 

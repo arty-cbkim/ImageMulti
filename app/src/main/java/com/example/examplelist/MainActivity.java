@@ -1,4 +1,4 @@
-package com.example.imagemulti;
+package com.example.examplelist;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
